@@ -1,2 +1,101 @@
 Deniz Yazıcı - 21902557 - https://github.com/denizyaazici
+
 PES 2013 is my favourite video game.
+
+commit 29e12da2a56e018f278df497888d19b5700483b2 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 4e788a6 580af5d
+Author: denizyaazici <91609205+denizyaazici@users.noreply.github.com>
+Date:   Fri Feb 11 17:49:33 2022 +0300
+
+    Merge pull request #1 from denizyaazici/new_information
+
+    Some information changed in info.txt.
+
+commit 580af5ddbed0794b26bc3f201dee57087de3aebd (origin/new_information, new_information)
+Author: Deniz <d.yazici@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 17:48:10 2022 +0300
+
+    Some information changed in info.txt.
+:...skipping...
+commit 29e12da2a56e018f278df497888d19b5700483b2 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 4e788a6 580af5d
+Author: denizyaazici <91609205+denizyaazici@users.noreply.github.com>
+Date:   Fri Feb 11 17:49:33 2022 +0300
+
+    Merge pull request #1 from denizyaazici/new_information
+
+    Some information changed in info.txt.
+
+commit 580af5ddbed0794b26bc3f201dee57087de3aebd (origin/new_information, new_information)
+Author: Deniz <d.yazici@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 17:48:10 2022 +0300
+
+    Some information changed in info.txt.
+
+commit 4e788a69c5c7fe0747ff1826312d2e1471d93c39
+Merge: 697fb9b 8bcb327
+Author: Deniz <d.yazici@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 17:41:43 2022 +0300
+
+    Merge branch 'new_information' into main
+
+commit 8bcb3271edd483e313f80ca2d6d1b9ec19c9afae
+Author: Deniz <d.yazici@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 17:19:28 2022 +0300
+
+:...skipping...
+commit 29e12da2a56e018f278df497888d19b5700483b2 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 4e788a6 580af5d
+Author: denizyaazici <91609205+denizyaazici@users.noreply.github.com>
+Date:   Fri Feb 11 17:49:33 2022 +0300
+
+    Merge pull request #1 from denizyaazici/new_information
+    
+    Some information changed in info.txt.
+
+commit 580af5ddbed0794b26bc3f201dee57087de3aebd (origin/new_information, new_information)
+Author: Deniz <d.yazici@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 17:48:10 2022 +0300
+
+    Some information changed in info.txt.
+
+commit 4e788a69c5c7fe0747ff1826312d2e1471d93c39
+Merge: 697fb9b 8bcb327
+Author: Deniz <d.yazici@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 17:41:43 2022 +0300
+
+    Merge branch 'new_information' into main
+
+commit 8bcb3271edd483e313f80ca2d6d1b9ec19c9afae
+Author: Deniz <d.yazici@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 17:19:28 2022 +0300
+
+    some information added to info.txt
+
+commit 697fb9bb54762b3cee99b01b0041e94716d9a4da
+Author: Deniz <d.yazici@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 15:54:02 2022 +0300
+
+    Deniz Yazıcı updated info.txt
+
+commit 6996cefc40e1aa6677797d1565b03b9ef36636bf
+Author: denizyaazici <91609205+denizyaazici@users.noreply.github.com>
+Date:   Fri Feb 11 15:15:44 2022 +0300
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)
